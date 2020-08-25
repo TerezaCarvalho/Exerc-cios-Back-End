@@ -1,4 +1,4 @@
--- JOIN 
+-- JOIN desafios do conteúdo
 
 -- existe a opção de usar os diversos tipos de
 -- JOIN para combinar em um mesmo resultado registros de duas ou mais tabelas. Esses tipos são:

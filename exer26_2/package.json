@@ -1,0 +1,11 @@
+{
+  "name": "exer26_2",
+  "version": "1.0.0",
+  "description": "exercio fluxo assíncrono",
+  "main": "exerc26_2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Tereza Cristina\"",
+  "license": "ISC"
+}
